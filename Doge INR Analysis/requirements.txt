@@ -1,0 +1,11 @@
+# packages required:
+
+matplotlib
+
+seaborn
+
+sklearn
+
+numpy
+
+pandas
