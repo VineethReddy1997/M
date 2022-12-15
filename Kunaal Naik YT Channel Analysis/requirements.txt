@@ -1,0 +1,6 @@
+pandas_profiling
+sciket learn
+pandas
+numpy
+matplotlib
+seaborn
