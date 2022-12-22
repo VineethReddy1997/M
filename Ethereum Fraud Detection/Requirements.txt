@@ -1,0 +1,7 @@
+Required libraries along with the versions.
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
