@@ -71,10 +71,3 @@ Decision Trees are a type of Supervised Machine Learning (that is you explain wh
 - I have used three models to train the data starting with Random forest regressor, then SLogistic regression and after that Decision Trees. I have finilized the Decision Trees which is having highest accuracy.
 - Decision Trees is used to determine which features of data (measurements) are most important for diagnosing breast cancer and find out if breast cancer occurs or not  with an accuracy over 89%
 
-**YOUR NAME**
-
-Deepthi M
-
-GitHub: https://github.com/deepthi1107
-
-Linkedin: https://www.linkedin.com/in/deepthi-m-1107/
