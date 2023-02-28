@@ -1,6 +1,6 @@
 
   
-
+## PROJECT TITLE ##
 **BANKNOTE DATASET**
 
   
@@ -62,7 +62,7 @@ The main aim of the project is to make a model that helps to check bank note aut
 
 **ACCURACIES**
 
-![Model Accuracies](../Images/model_accuracy.jpg "Model Accuracies")
+![Model Accuracies](../https://github.com/VineethReddy1997/ML-World/blob/master/Banknote%20Dataset/Images/model_accuracy.jpg "Model Accuracies")
   
 
 **CONCLUSION**
