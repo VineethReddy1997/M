@@ -1,4 +1,4 @@
-** PROJECT-TITLE **
+**PROJECT-TITLE**
     
 > DOGE coin INR Analysis
 
