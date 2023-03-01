@@ -8,7 +8,7 @@
 
 ## Dataset Link
 
-> ![dataset link](https://www.kaggle.com/datasets/khusheekapoor/edx-courses-dataset-2021)
+> https://www.kaggle.com/datasets/khusheekapoor/edx-courses-dataset-2021
 
 ## Description
 
