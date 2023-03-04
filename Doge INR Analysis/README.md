@@ -22,15 +22,15 @@
 
 ## Libraries Required
 
-* matplotlib: 
+* matplotlib
 
-* seaborn:
+* seaborn
 
-* sklearn:
+* sklearn
 
-* numpy:
+* numpy
 
-* pandas:
+* pandas
 
 
 ### Data Visualization
