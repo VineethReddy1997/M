@@ -19,6 +19,8 @@
 * Basic Exploration of data
 * Cleaning the data and transforming it to be useful for basic analysis 
 * Visual Data exploration
+* Model Building
+* Model Evaluation
 
 ## Libraries Required
 
