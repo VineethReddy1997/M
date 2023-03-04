@@ -22,18 +22,13 @@
 
 ## Libraries Required
 
-* matplotlib: 
-
-* seaborn:
-
-* sklearn:
-
-* numpy:
-
-* pandas:
+* matplotlib
+* seaborn
+* sklearn
+* numpy
+* pandas
 
 ### Data Visualization
-
 
 ### Project Evaluation
 
