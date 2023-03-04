@@ -22,7 +22,7 @@ https://www.kaggle.com/iamsouravbanerjee/analytics-industry-salaries-2022-india
 - Plotting top 6 less paying companies
 
 ### Data Visualization Plots
-###Language Used 
+### Language Used 
 - Python
 ### Libraries Used
 - pandas, seaborn, numpy, matplotlib, plotly
