@@ -4,7 +4,7 @@
 
 **GOAL**
 
->Aim- Final Year Engineering College Placements
+>Final Year Engineering College Placements
 
 **DATASET**
 
