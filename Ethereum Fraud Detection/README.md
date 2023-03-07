@@ -34,7 +34,7 @@ Libraries like Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn are used.
     - Logistic Regression
     - Decision Tree Classifier
     - Random Forest Classifier
-    - GradientBoostingClassifier
+    - Gradient Boosting Classifier
 - Predicting on Test Data. 
 
 - After fitting these models with the data, we analyze the model using metric accuracy_score and compare with all of the algorithms listed above.
