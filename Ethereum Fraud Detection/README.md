@@ -39,7 +39,7 @@ Libraries like Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn are used.
 
 - After fitting these models with the data, we analyze the model using metric accuracy_score and compare with all of the algorithms listed above.
 
-**Data Visualization**   
+**Data Visualization Done**   
 
 
 
