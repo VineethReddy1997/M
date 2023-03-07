@@ -43,9 +43,9 @@
 
 - sklearn
 - seaborn
-- Numpy==1.19.2
-- pandas==1.2.4
-- matplotlib==3.4.2
+- Numpy
+- pandas
+- matplotlib
 
 ## VISUALIZATION
 
