@@ -4,7 +4,7 @@
 
 ## GOAL
 
->The main goal of the project is to identify the spam detection and also classification. 
+>The main goal of the project is to identify the spam detection and also classification . 
 
 ## DATASET
 
