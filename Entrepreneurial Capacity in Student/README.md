@@ -6,7 +6,7 @@
 >To Create a machine learning model with highest accuracy which will predict the Entrepreneurial Capacity in Student.  
    
 ## DATASET
->[LINK](https://www.kaggle.com/namanmanchanda/entrepreneurial-competency-in-university-students)
+>[Dataset Link](https://www.kaggle.com/namanmanchanda/entrepreneurial-competency-in-university-students)
    
    
 ## DESCRIPTION
