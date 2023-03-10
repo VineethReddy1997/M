@@ -51,7 +51,7 @@
 * seaborn
  
 
-**ANALYSIS**
+**Visualization**
 
 ![Model Accuracies](../Images/model_accuracy.jpg "Model Accuracies")
 
