@@ -4,7 +4,7 @@
 
 **GOAL**
 
->Aim- Analyze different aspects of the dataset and provide the pattern of the dataset from the visualization.
+>Analyze different aspects of the dataset and provide the pattern of the dataset from the visualization.
 
 **DATASET**
 
@@ -25,8 +25,6 @@ https://www.kaggle.com/karangadiya/fifa19
 7. also accuracy score of each algorithm is calculated for comparison purpose with other algorithms
 
 **DATA VISUALIZATION**
-
--------------------
 
 **MODELS USED**
 
