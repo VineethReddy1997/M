@@ -4,7 +4,7 @@
 
 **GOAL**
 
->Aim- Analyze different aspects of the dataset and provide the pattern of the dataset from the visualization.
+>Analyze different aspects of the dataset and provide the pattern of the dataset from the visualization.
 
 **DATASET**
 
