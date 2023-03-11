@@ -26,8 +26,6 @@ https://www.kaggle.com/karangadiya/fifa19
 
 **DATA VISUALIZATION**
 
--------------------
-
 **MODELS USED**
 
 1. Linear Regression= simplest and most common algorithm used for classification problems
