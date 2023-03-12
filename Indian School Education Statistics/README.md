@@ -45,7 +45,7 @@
 
 **CONTRIBUTION**
 
->- Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
+> Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
 ## Follow me on..
 >[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineethreddy1997/)
