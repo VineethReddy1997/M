@@ -40,7 +40,7 @@
 - Maximun Numbers of coders are from Russsia and China.
 - Maximun Number of Medal winners are from Russia.
 - Moscow State University, University of Warsaw, St.Petersburg ITMO University, Massachusetts Institute of Technology have the maximun participations.
-- Indian Institute of Technology-Bombay came to top 100 12 times in last 20 years representing India.
+- Indian Institute of Technology-Bombay came to top 100,12 times in last 20 years representing India.
 - International Institute of Information Technology - Hyderabad has maximu n participations from India.
 
 **CONTRIBUTION**
