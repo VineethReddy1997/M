@@ -6,7 +6,7 @@
 >Analyse the Statistics for Indian Schools, includes GER, Water facility, Electricity, DR,etc
 
 **Dataset**
->https://www.kaggle.com/vidyapb/indian-school-education-statistics
+>Click on this link --> https://www.kaggle.com/vidyapb/indian-school-education-statistics
 
 **Approach**
 >After data cleaning and Exploratory Data Analysis, Using various data visualization techniques, the factors like GER, DR, Water facility, Electricity, Computer, Boys toilet, Girls toilet, were analyzed.
