@@ -33,19 +33,19 @@
 **Visualizations**
 
 ### Pie chart for age group analysis
-<img src = ""/>
+<img src = "https://github.com/VineethReddy1997/ML-World/blob/master/Kunaal%20Naik%20YT%20Channel%20Analysis/Images/Age%20Groups%20viewing%20the%20channel%20videos%20-%20Age%20Group%20dataset.png"/>
 
 ### Views analysis for the traffic dataset
-<img src = ""/>
+<img src = "https://github.com/VineethReddy1997/ML-World/blob/master/Kunaal%20Naik%20YT%20Channel%20Analysis/Images/Views%20distribution%20(traffic%20dataset).png"/>
 
 ### Views ddistribution (Videos dataset)
-<img src = ""/>
+<img src = "https://github.com/VineethReddy1997/ML-World/blob/master/Kunaal%20Naik%20YT%20Channel%20Analysis/Images/Views%20distribution%20-%20video%20dataset.png"/>
 
 ### Analysis for watchtime in hours per day
-<img src = ""/>
+<img src = "https://github.com/VineethReddy1997/ML-World/blob/master/Kunaal%20Naik%20YT%20Channel%20Analysis/Images/Watch%20in%20hours%20per%20day%20-%20dates%20dataset.png"/>
 
 ### Random Forest Regressor analysis results with evaluation metrics
-<img src = ""/>
+<img src = "https://github.com/VineethReddy1997/ML-World/blob/master/Kunaal%20Naik%20YT%20Channel%20Analysis/Images/Decision%20tree%20regressor%20implementation%20with%20evaluation%20metrics.png"/>
 
 
 
