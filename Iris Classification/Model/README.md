@@ -24,7 +24,7 @@
 	* KNN Classifier
 	* Random Forest
 	* XGBoost
-* We got 100% accuracy on all models. (Refer : `iris-classification-5-models.ipynb`)
+* We got 100% accuracy on all models.
 
  
 **MODELS USED**
