@@ -1,6 +1,6 @@
 **PROJECT TITLE**
 
-# Indian School Education Statistics
+## Indian School Education Statistics
 
 **Aim**
 >Analyse the Statistics for Indian Schools, includes GER, Water facility, Electricity, DR,etc
