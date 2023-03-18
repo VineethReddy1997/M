@@ -7,7 +7,7 @@
 
 The goal of this project is to create a ML model which will predict the stock prices.
 ## Dataset
-I have Downloaded this dataset from kaggle website. Here is the link: https://www.kaggle.com/datasets/zlemglsmklkaya/aselsan-stock-prices-20172022
+Here is the Dataset link: https://www.kaggle.com/datasets/zlemglsmklkaya/aselsan-stock-prices-20172022
 
 ## What Have I Done?
 
