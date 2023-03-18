@@ -37,7 +37,7 @@ Initially Exploratory Data Analysis and Data Visulaization is performed on the d
 **Among all the models, XGBoost Classifier model gave almost 92% accuracy and it is the best fitted model.**
 <hr>
  
-## Author
+**CONTRIBUTED**
 
 - Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
