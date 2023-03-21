@@ -53,10 +53,6 @@ The main aim of the project is to use 3-4 algorithms to implement the models and
 
 **Data Visualization Done**
 
-<p float ="left">
-<img src = "../https://github.com/VineethReddy1997/ML-World/blob/master/Air%20Quality%20Prediction/Images/Satisfaction_level_of_people_post_covid.jpg />
-<img src = "../Images/most_polluted_cities_post_covid.jpg" alt="Most Polluted city (Industrial Pollution Content) post covid" title="Most Polluted city (Industrial Pollution Content) post covid" style="width:40%" />
-</p>
 
 **CONCLUSION**
 
