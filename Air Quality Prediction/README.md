@@ -51,12 +51,7 @@ The main aim of the project is to use 3-4 algorithms to implement the models and
   
   
 
-**PLOTS**
-
-<p float ="left">
-<img src = "![download](https://user-images.githubusercontent.com/97960335/180611222-bcbf5e61-cc74-4ba7-9b90-89f2cfd2919f.png" ),alt="Satisfaction level of people pre covid" title="Satisfaction level of people pre covid" style="width:40%" />
-<img src = "../Images/Satisfaction_level_of_people_post_covid.jpg" alt="Satisfaction level of people post covid" title="Satisfaction level of people post covid" style="width:40%" />
-</p>
+**Data Visualization Done**
 
 <p float ="left">
 <img src = "../https://github.com/VineethReddy1997/ML-World/blob/master/Air%20Quality%20Prediction/Images/Satisfaction_level_of_people_post_covid.jpg />
