@@ -40,7 +40,7 @@ Here is the Dataset link: https://www.kaggle.com/datasets/zlemglsmklkaya/aselsan
 - Heatmap of "ASELSAN" is shown.
 - The decrease in opening price in 2018 to 2020 and the increase from 2020 to 2022 is plotted.
 - ASELSAN stock price prediction is done using ML Model.
-
+_________
 **CONTRIBUTION**
 
 - Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
