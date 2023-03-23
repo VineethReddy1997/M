@@ -73,7 +73,7 @@ We started with Logistic Regression, SVM, KNN, Random Forrest Classifier, XGBoos
 
   
 
-**CONTRIBUTION BY**
+**CONTRIBUTION**
 
 - Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
