@@ -1,23 +1,18 @@
 
   
-
-**Avocado Prices**
-
-  
+**Project Title**
+>### Avocado Prices Prediction
 
 **GOAL**
 
-  
+>Implementtion of different algorithms like random forest, logistic regression, and XGBoost to see which gives better accuracy.
 
-Implementtion of different algorithms like random forest, logistic regression, and XGBoost to see which gives better accuracy.
-
-  
-
+ 
 **DATASET**
 
   
 
-https://www.kaggle.com/neuromusic/avocado-prices/
+>Dataset Link Here Click on this link https://www.kaggle.com/neuromusic/avocado-prices/
 
   
 
@@ -78,9 +73,8 @@ We started with Linear Regression, SVM, Decision Tree, Random Forest and XGBoost
 
 We followed with XGB regressor and optimizing it using Grid search CV and achieved rmse of (0.08531) for the prediction of the test set target values.
 
-
-  
-**CONTRIBUTION BY**
+__________
+**CONTRIBUTION**
 
 - Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
