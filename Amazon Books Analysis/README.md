@@ -1,14 +1,11 @@
 
   
-
+### Project Title
 **Amazon Books Analysis**
 
-  
-
 **GOAL**
-
-  
-Analysis of the books from Amazon website.
+ 
+>Analysis of the books from Amazon website.
   
 
 **DATASET**
@@ -53,8 +50,8 @@ Few insights were:
 * For ratings less than 4.8,Non-Fiction books count overpowers Fiction books. But the reverse can be seen for the ratings-4.8 and 4.9.This is an important point as ,earlier we have seen that non-fiction books have an overall higher count in the entire dataset.
 * No FREE bestsellers in 2012 and after 2017. 
   
-
-**CONTRIBUTION BY**
+_________
+**CONTRIBUTION**
 
 - Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
