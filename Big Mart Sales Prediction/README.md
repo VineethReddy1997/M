@@ -39,8 +39,8 @@ This is a regression problem where we need to predict the Big Mart Sales . We us
 2. Lasso Regression RMSE = 1135.040214036834
 3. Random Forest Regressor RMSE = 903.9808123249761
 
-
-**CONTRIBUTION BY**
+______________
+**CONTRIBUTION**
 
 - Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
