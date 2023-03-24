@@ -1,6 +1,5 @@
+## Project Title
 **Bangladesh Premier league Analysis**
-
-  
 
 **GOAL**
 
@@ -62,10 +61,8 @@ _________________________________________
 **CONCLUSION**
 
 The dataset was analysed and the above analysis were made , which can be used by teams in analysing their opponents.
-  
-
-
-**CONTRIBUTION BY**
+ ________________
+**CONTRIBUTION**
 
 - Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
