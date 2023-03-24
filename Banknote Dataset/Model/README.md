@@ -74,8 +74,8 @@ We investigated the data, checking for data unbalancing, visualizing the feature
 We started with Logistic Classifier, SVM, KNN, Random Forrest Classifier and XGBoost Clssifier for which we obtained an accuracies of 97.81,100,100,99.27 and 99.63% respectively, when predicting the target for the test set.
 
   
-
-**CONTRIBUTION BY**
+_________________________
+**CONTRIBUTION**
 
 - Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
