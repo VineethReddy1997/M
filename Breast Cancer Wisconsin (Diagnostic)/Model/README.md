@@ -21,7 +21,7 @@
 
 -> Loaded the dataset
 
->Preprocessing of the dataset:
+**Preprocessing of the dataset:**
 
 -> Knowing some of the statistical measures information
 
@@ -73,8 +73,8 @@ Decision Trees are a type of Supervised Machine Learning (that is you explain wh
 - Downloaded the dataset from kaggle, loading the required libraries, Data Pre-Processing, Splitting of data, building the models, testing thier accuracies and finilizing the model based on accuracy.
 - I have used three models to train the data starting with Random forest regressor, then SLogistic regression and after that Decision Trees. I have finilized the Decision Trees which is having highest accuracy.
 - Decision Trees is used to determine which features of data (measurements) are most important for diagnosing breast cancer and find out if breast cancer occurs or not  with an accuracy over 89%
-
-**CONTRIBUTION BY**
+______________
+**CONTRIBUTION**
 
 > - Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
