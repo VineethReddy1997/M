@@ -74,8 +74,8 @@ Decision Trees are a type of Supervised Machine Learning (that is you explain wh
 **CONCLUSION**
 
 >We can conclude that Lasso Regression gives the most accurate results specifically for this problem statement.
-
-**CONTRIBUTION BY**
+________
+**CONTRIBUTION**
 
 >- Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
 
