@@ -58,6 +58,7 @@ This is a classification problem where we we predict who wins individual snapsho
 
 We can conclude that Random Forest Classifier gives the most accurate results specifically for this problem statement.
 
+________________
 **CONTRIBUTION**
 
 >- Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
