@@ -1,6 +1,6 @@
 ## PROJECT TITLE
 
->CS:GO Round Winner Classification
+>CS_GO Round Winner Classification
 
 **GOAL**
 
