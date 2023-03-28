@@ -1,7 +1,7 @@
-## California Enviornmental Analysis
+## PROJECT TITLE
+### California Enviornmental Analysis
 
-## Goal:
-
+**GOAL**
 >Analyse different aspects of the environmental changes of California.
 
 ## Dataset:
