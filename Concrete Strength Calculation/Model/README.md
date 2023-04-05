@@ -1,5 +1,5 @@
 
-## PROJECT
+## PROJECT TITLE
 
 **Concrete Strength Calculation**
 
@@ -48,12 +48,9 @@
 * xgboost
 * seaborn
   
-**Images**
+**Images** 
+> Pending
 
-![Model Accuracies](../Images/model_accuracy.jpg "Model Accuracies")
-![Distribution for each variable after removing outliners](../Images/distribution_for_each_variable.jpg "Distribution for each variable after removing outliners")
-
-  
 **CONCLUSION**
 
 * We investigated the data, checking for data unbalancing, visualizing the features, and understanding the relationship between different features. We then investigated two predictive models. The data was split into three parts, a train set, a validation set, and a test set. For the first five  base models, we only used the train and test set.
