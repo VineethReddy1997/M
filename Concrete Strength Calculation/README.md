@@ -49,7 +49,8 @@
 * seaborn
   
 **Images** 
->Pending
+> Pending
+
 **CONCLUSION**
 
 * We investigated the data, checking for data unbalancing, visualizing the features, and understanding the relationship between different features. We then investigated two predictive models. The data was split into three parts, a train set, a validation set, and a test set. For the first five  base models, we only used the train and test set.
