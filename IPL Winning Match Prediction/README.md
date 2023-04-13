@@ -61,7 +61,7 @@ This data was given by Oracle for educational use in 2018.
 * Scikit-learn
 
 
-*i*ACCURACIES**
+**ACCURACIES**
 
 | **Model** | **Accuracy** | 
 | --- | --- |
