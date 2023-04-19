@@ -3,8 +3,6 @@
 ## PROJECT TITLE ##
 **BANKNOTE DATASET**
 
-  
-
 **GOAL**
 
   
@@ -13,9 +11,7 @@ To predict whether a given banknote is authentic given a number of measures take
 
 **DATASET**
 
-  
-
-https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
+> Dataset link here https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
 
   
 
